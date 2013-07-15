@@ -1,0 +1,4 @@
+cocorresp
+=========
+
+Cocorrespondence Analysis
